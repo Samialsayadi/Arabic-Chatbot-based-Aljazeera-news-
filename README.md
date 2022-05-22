@@ -48,7 +48,8 @@ w2v_model = KeyedVectors.load_word2vec_format(model_path, binary=True)
 ```
 # Results of Comparative Methods.
 Our Question : q1="the aratificial intelliegnce play crucial role in conversational AI, "
-according to the results in this project as follow:
+
+ The results were as follow:
 # Spacy
 ```python
 

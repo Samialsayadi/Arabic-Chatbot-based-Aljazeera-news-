@@ -4,6 +4,17 @@ In this simple project, we building simple chatbot based on semantic similarity 
 # Step 1 — Setting Up Your Environment
 In this step, you will install the spaCy, BERT, Wordnet, and Word2Vector libraries that will help your chatbot understand the user’s sentences.
 ```
+install spaCy
+pip install -U spacy
+python -m spacy download en_core_web_md
+
+install spaCy
+pip install -U spacy
+install spaCy
+pip install -U spacy
+install spaCy
+pip install -U spacy
+install spaCy
 pip install -U spacy
 ```
 ```python

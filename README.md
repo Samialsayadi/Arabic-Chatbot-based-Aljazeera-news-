@@ -25,6 +25,7 @@ WordNet is a lexical database for the English language, which was created by Pri
 install wordnet
 pip install wordnet
 ```
+Bidirectional Encoder Representations from Transformers is a transformer-based machine learning technique for natural language processing pre-training developed by Google. 
 ```
 install BERT
 pip install sentence-transformers
@@ -33,6 +34,7 @@ pip install sentence-transformers
 ```python
 from sentence_transformers import SentenceTransformer, util
 ```
+Load pretrained model (since intermediate data is not included, the model cannot be refined with additional data)
 ```
 install word2vector
 pip install gensim

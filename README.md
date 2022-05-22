@@ -20,17 +20,14 @@ pip install sentence-transformers
 from sentence_transformers import SentenceTransformer, util
 
 install word2vector
-```
-```
-python
 pip install gensim
+```
+```python
+
 from gensim.models.keyedvectors import KeyedVectors
 model_path = 'GoogleNews-vectors-negative300.bin'
 w2v_model = KeyedVectors.load_word2vec_format(model_path, binary=True)
 
 ```
-```python
 
 
-
-```

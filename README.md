@@ -53,21 +53,21 @@ according to the results in this project as follow:
 
 print('the response based Spacy:  ',Response_spacy(q1))
 ```
-the response based Spacy:   this criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliablyon the basis of the conversational content alonebetween the program and a real human.
+"the response based Spacy:   this criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliablyon the basis of the conversational content alonebetween the program and a real human."
 
 ```python
 print('the response based wordnet:  ',Response_wordnet(q1))
 ```
-the response based wordnet:   still, there is currently no general purpose conversational artificial intelligence, and some software developers focus on the practical aspect, information retrieval.
+"the response based wordnet:   still, there is currently no general purpose conversational artificial intelligence, and some software developers focus on the practical aspect, information retrieval."
 
 ```python
 print('the response based BERT: ',Response_BERT(q1))
 ```
-the response based BERT:  one pertinent field of ai research is natural language processing.
+the response based BERT:  "one pertinent field of ai research is natural language processing."
 ```python
 print('the response based word2vec:  ',Response_word2vec(q1))
 ```
-the response based word2vec:   this criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliablyon the basis of the conversational content alonebetween the program and a real human.
+the response based word2vec:   "this criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliablyon the basis of the conversational content alonebetween the program and a real human."
 
 We found the best results based on Spacy and word2vector 
 

@@ -17,8 +17,9 @@ pip install wordnet
 
 install BERT
 pip install sentence-transformers
+```python
 from sentence_transformers import SentenceTransformer, util
-
+```
 install word2vector
 pip install gensim
 ```

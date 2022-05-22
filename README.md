@@ -69,5 +69,6 @@ print('the response based word2vec:  ',Response_word2vec(q1))
 ```
 the response based word2vec:   this criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliablyon the basis of the conversational content alonebetween the program and a real human.
 
+We found the best results based on Spacy and word2vector 
 
 

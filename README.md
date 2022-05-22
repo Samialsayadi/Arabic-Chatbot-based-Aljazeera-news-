@@ -20,6 +20,9 @@ pip install sentence-transformers
 from sentence_transformers import SentenceTransformer, util
 
 install word2vector
+```
+```
+python
 pip install gensim
 from gensim.models.keyedvectors import KeyedVectors
 model_path = 'GoogleNews-vectors-negative300.bin'

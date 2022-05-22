@@ -8,6 +8,8 @@ NLTK is Natural Language Tool Kit. It is used to build python programming. It he
 
 pip install --user -U nltk
 ```
+
+spaCy is a library for advanced Natural Language Processing in Python and Cython. It's built on the very latest research, and was designed from day one to be used in real products. spaCy comes with pretrained pipelines and currently supports tokenization and training for 60+ languages.
 ```
 install spaCy
 pip install -U spacy

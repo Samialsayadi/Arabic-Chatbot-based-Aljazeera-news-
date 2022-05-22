@@ -4,6 +4,8 @@ In this simple project, we building simple chatbot based on semantic similarity 
 # Step 1 — Setting Up Your Environment
 In this step, you will install the spaCy, BERT, Wordnet, and Word2Vector libraries that will help your chatbot understand the user’s sentences.
 ```
+NLTK is Natural Language Tool Kit. It is used to build python programming. It helps to work with human languages data. It gives a very easy user interface. It supports classification, steaming, tagging, etc.
+
 pip install --user -U nltk
 ```
 ```
